@@ -1,0 +1,2 @@
+rootProject.name = 'session11-ex06'
+include 'warehouse-service'
